@@ -1,0 +1,15 @@
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.csproj.AssemblyReference.cache
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.AssemblyInfoInputs.cache
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.AssemblyInfo.cs
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.csproj.CoreCompileInputs.cache
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\bin\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.exe
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\bin\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.deps.json
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\bin\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.runtimeconfig.json
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\bin\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\bin\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.pdb
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\refint\2. BMI Calculator from Valentyn Tukov.dll
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.pdb
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\2. BMI Calculator from Valentyn Tukov.genruntimeconfig.cache
+C:\Users\ValentynTukov\source\repos\2. BMI Calculator from Valentyn Tukov\2. BMI Calculator from Valentyn Tukov\obj\Debug\net6.0\ref\2. BMI Calculator from Valentyn Tukov.dll
