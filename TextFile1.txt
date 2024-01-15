@@ -1,0 +1,7 @@
+Analysis of the variables for tests
+
+BMI
+weight
+height
+MinUsefulWeigh
+MaxUsefulWeigh
